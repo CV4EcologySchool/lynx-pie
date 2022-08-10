@@ -74,4 +74,6 @@ timeings.txt
 
 pip-wheel-metadata/*
 
-.vscode/*
+.vscode/
+# Mi directorio
+**/lynxcoco
