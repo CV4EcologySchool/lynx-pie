@@ -9,10 +9,11 @@ from torchvision.transforms import (
     Normalize,
     ColorJitter,
     RandomHorizontalFlip,
-    CenterCrop,
+    CenterCrop, ## why center crop y no 5 crop?
     RandomAffine,
     RandomGrayscale,
     GaussianBlur,
+    #MotionBlur? / ElasticTransform
 )
 
 

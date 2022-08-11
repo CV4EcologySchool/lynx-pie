@@ -1,0 +1,5063 @@
+{
+     "categories": [
+          {
+               "id": 1,
+               "name": "Quebrancho_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 2,
+               "name": "Pomelo_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 3,
+               "name": "Pimenton_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 4,
+               "name": "Negro_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 5,
+               "name": "Llerena_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 6,
+               "name": "RiiiMiera_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 7,
+               "name": "RiMiera_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 8,
+               "name": "Quilombos_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 9,
+               "name": "Quebec_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 10,
+               "name": "Miera_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 11,
+               "name": "Suma_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 12,
+               "name": "Salsifi_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 13,
+               "name": "Salaila_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 14,
+               "name": "Saga_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 15,
+               "name": "Saboya_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 16,
+               "name": "Luna_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 17,
+               "name": "Lucero_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 18,
+               "name": "Lava_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 19,
+               "name": "Kuna_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 20,
+               "name": "Keres_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 21,
+               "name": "Kentaro_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 22,
+               "name": "Kendo_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 23,
+               "name": "Kea_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 24,
+               "name": "Kahn_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 25,
+               "name": "Pyros_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 26,
+               "name": "Pupila_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 27,
+               "name": "Pulgar_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 28,
+               "name": "Popa_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 29,
+               "name": "Pecoso_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 30,
+               "name": "Othar_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 31,
+               "name": "Osga_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 32,
+               "name": "Orza_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 33,
+               "name": "OrtegaMT_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 34,
+               "name": "Oropesa_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 35,
+               "name": "Ondina_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 36,
+               "name": "Ona_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 37,
+               "name": "Olivia_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 38,
+               "name": "Oli_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 39,
+               "name": "Ojen_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 40,
+               "name": "Ofidio_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 41,
+               "name": "Nerpio_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 42,
+               "name": "Ninfa_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 43,
+               "name": "Nervio_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 44,
+               "name": "NeoMt_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 45,
+               "name": "Nectarina_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 46,
+               "name": "NectarMT_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 47,
+               "name": "Nebuloso_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 48,
+               "name": "Navillas_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 49,
+               "name": "Nativo_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 50,
+               "name": "Naia_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 51,
+               "name": "Mural_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 52,
+               "name": "Mosto_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 53,
+               "name": "Miarabel_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 54,
+               "name": "Mazapan_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 55,
+               "name": "Malvasia_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 56,
+               "name": "Malabar_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 57,
+               "name": "Minerva_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 58,
+               "name": "Kiowa_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 59,
+               "name": "Kiki_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 60,
+               "name": "I\u00f1albali_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 61,
+               "name": "Intenso_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 62,
+               "name": "Plutonio_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 63,
+               "name": "Pizarra_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 64,
+               "name": "Perdigon_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 65,
+               "name": "Pantana_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 66,
+               "name": "Oreto_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 67,
+               "name": "Nival_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 68,
+               "name": "Bardenas_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 69,
+               "name": "Babel_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 70,
+               "name": "Avispa_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 71,
+               "name": "Arista_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 72,
+               "name": "Arce_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 73,
+               "name": "Ana_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 74,
+               "name": "Ambroz_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 75,
+               "name": "Alfonso_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 76,
+               "name": "Brinco_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 77,
+               "name": "Bornizo_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 78,
+               "name": "Bolina_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 79,
+               "name": "Betis_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 80,
+               "name": "Bayon_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 81,
+               "name": "Bardo_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 82,
+               "name": "Qimbo_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 83,
+               "name": "Quilete_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 84,
+               "name": "Quesada_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 85,
+               "name": "Queila_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 86,
+               "name": "Rupestre_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 87,
+               "name": "Rellano_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 88,
+               "name": "Red_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 89,
+               "name": "Quicio_derecha",
+               "supercategory": "iberianlynx"
+          },
+          {
+               "id": 90,
+               "name": "Quisquilloso_derecha",
+               "supercategory": "iberianlynx"
+          }
+     ],
+     "images": [
+          {
+               "id": 15,
+               "width": 5200,
+               "height": 3900,
+               "file_name": "Quebracho (3).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 17,
+               "width": 3151,
+               "height": 2035,
+               "file_name": "Quebracho (2)_1.JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 72,
+               "width": 796,
+               "height": 499,
+               "file_name": "Pimenton (10).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 78,
+               "width": 940,
+               "height": 477,
+               "file_name": "Negro (9).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 82,
+               "width": 1066,
+               "height": 718,
+               "file_name": "Negro (5).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 88,
+               "width": 1114,
+               "height": 661,
+               "file_name": "Negro (15).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 95,
+               "width": 1244,
+               "height": 615,
+               "file_name": "Llerena (8).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 96,
+               "width": 884,
+               "height": 701,
+               "file_name": "Llerena (6).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 115,
+               "width": 1892,
+               "height": 1126,
+               "file_name": "RiMiera (3).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 125,
+               "width": 2124,
+               "height": 1498,
+               "file_name": "Quilombos (9).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 128,
+               "width": 1124,
+               "height": 773,
+               "file_name": "Quilombos (6).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 135,
+               "width": 1459,
+               "height": 924,
+               "file_name": "Quebec (4).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 151,
+               "width": 2304,
+               "height": 1162,
+               "file_name": "Miera (6).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 283,
+               "width": 613,
+               "height": 590,
+               "file_name": "Saboya (7).png",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 301,
+               "width": 1233,
+               "height": 1017,
+               "file_name": "Lucero (6).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 304,
+               "width": 1599,
+               "height": 899,
+               "file_name": "Lucero (3).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 326,
+               "width": 2898,
+               "height": 2512,
+               "file_name": "Lava (2).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 328,
+               "width": 4288,
+               "height": 2848,
+               "file_name": "Lava (1).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 332,
+               "width": 2000,
+               "height": 1500,
+               "file_name": "Kuna (6).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 333,
+               "width": 2000,
+               "height": 1500,
+               "file_name": "Kuna (5).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 335,
+               "width": 1280,
+               "height": 1280,
+               "file_name": "Kuna (3).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 344,
+               "width": 4000,
+               "height": 3000,
+               "file_name": "Keres (6).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 355,
+               "width": 2560,
+               "height": 1920,
+               "file_name": "Kentaro (2).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 364,
+               "width": 472,
+               "height": 302,
+               "file_name": "Kendo (13).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 368,
+               "width": 530,
+               "height": 307,
+               "file_name": "Kendo (1).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 394,
+               "width": 3744,
+               "height": 2080,
+               "file_name": "Pyros (8).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 408,
+               "width": 2736,
+               "height": 1520,
+               "file_name": "Pupila (8).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 417,
+               "width": 1920,
+               "height": 1080,
+               "file_name": "Pupila (12).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 427,
+               "width": 2688,
+               "height": 1512,
+               "file_name": "Pulgar (9).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 430,
+               "width": 704,
+               "height": 528,
+               "file_name": "Pulgar (6).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 491,
+               "width": 1972,
+               "height": 1623,
+               "file_name": "Pecoso (1).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 517,
+               "width": 1600,
+               "height": 1200,
+               "file_name": "Osga (6).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 527,
+               "width": 1920,
+               "height": 1080,
+               "file_name": "Orza (2).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 537,
+               "width": 4000,
+               "height": 3000,
+               "file_name": "OrtegaMT (10).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 596,
+               "width": 4608,
+               "height": 3456,
+               "file_name": "Ondina (7).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 608,
+               "width": 1920,
+               "height": 1080,
+               "file_name": "Ona (6).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 610,
+               "width": 2736,
+               "height": 1520,
+               "file_name": "Ona (4).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 623,
+               "width": 2688,
+               "height": 1512,
+               "file_name": "Olivia (7).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 631,
+               "width": 4608,
+               "height": 2560,
+               "file_name": "Olivia (5).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 643,
+               "width": 3840,
+               "height": 2160,
+               "file_name": "Oli (5).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 645,
+               "width": 3840,
+               "height": 2160,
+               "file_name": "Oli (3).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 655,
+               "width": 1296,
+               "height": 720,
+               "file_name": "Ojen (2).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 656,
+               "width": 2845,
+               "height": 2461,
+               "file_name": "Ojen (1).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 661,
+               "width": 4608,
+               "height": 2560,
+               "file_name": "Ofidio (4).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 683,
+               "width": 1920,
+               "height": 1080,
+               "file_name": "NinfaMt (9).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 684,
+               "width": 1920,
+               "height": 1080,
+               "file_name": "NinfaMt (8).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 718,
+               "width": 4000,
+               "height": 3000,
+               "file_name": "Nerpio (9).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 722,
+               "width": 1260,
+               "height": 934,
+               "file_name": "Nerpio (5).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 749,
+               "width": 1920,
+               "height": 1080,
+               "file_name": "NeoMt (3).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 752,
+               "width": 1920,
+               "height": 1080,
+               "file_name": "NeoMt (13).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 787,
+               "width": 2061,
+               "height": 1565,
+               "file_name": "NectarMt (4).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 791,
+               "width": 2722,
+               "height": 1969,
+               "file_name": "NectarMt (15).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 816,
+               "width": 5760,
+               "height": 3200,
+               "file_name": "Navillas (3).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 827,
+               "width": 2560,
+               "height": 1920,
+               "file_name": "Nativo (7).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 829,
+               "width": 1280,
+               "height": 720,
+               "file_name": "Nativo (5).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 868,
+               "width": 1599,
+               "height": 899,
+               "file_name": "Mural (7).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 877,
+               "width": 4608,
+               "height": 2560,
+               "file_name": "Mural (11).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 910,
+               "width": 4000,
+               "height": 3000,
+               "file_name": "Mirabel (11).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 960,
+               "width": 1486,
+               "height": 1090,
+               "file_name": "minerva_D3.jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 990,
+               "width": 1343,
+               "height": 782,
+               "file_name": "Kiowa (11).jpeg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 991,
+               "width": 1114,
+               "height": 757,
+               "file_name": "Kiowa (10).jpeg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 995,
+               "width": 2688,
+               "height": 1512,
+               "file_name": "Kiki (23).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1008,
+               "width": 956,
+               "height": 577,
+               "file_name": "Kiki (11).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1010,
+               "width": 804,
+               "height": 497,
+               "file_name": "Kiki (1).png",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1041,
+               "width": 889,
+               "height": 650,
+               "file_name": "Intenso (3).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1042,
+               "width": 930,
+               "height": 616,
+               "file_name": "Intenso (2).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1063,
+               "width": 1509,
+               "height": 962,
+               "file_name": "plutonio_D4.jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1066,
+               "width": 1317,
+               "height": 745,
+               "file_name": "plutonio_D1.jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1078,
+               "width": 1082,
+               "height": 906,
+               "file_name": "pizarra_D3.jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1080,
+               "width": 1900,
+               "height": 1061,
+               "file_name": "pizarra_D1.jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1101,
+               "width": 1187,
+               "height": 951,
+               "file_name": "perdigon_D3.jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1111,
+               "width": 1002,
+               "height": 668,
+               "file_name": "pantana_D1.jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1134,
+               "width": 4000,
+               "height": 3000,
+               "file_name": "Perdigon (1).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1140,
+               "width": 2736,
+               "height": 1520,
+               "file_name": "Oreto (2).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1180,
+               "width": 2560,
+               "height": 1920,
+               "file_name": "Bardenas (24).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1183,
+               "width": 1544,
+               "height": 1024,
+               "file_name": "Bardenas (21).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1201,
+               "width": 1908,
+               "height": 1267,
+               "file_name": "Babel (8).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1204,
+               "width": 2304,
+               "height": 1728,
+               "file_name": "Babel (5).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1208,
+               "width": 2560,
+               "height": 1920,
+               "file_name": "Babel (14).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1216,
+               "width": 1824,
+               "height": 1170,
+               "file_name": "Avispa (9).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1222,
+               "width": 1544,
+               "height": 1024,
+               "file_name": "Avispa (3).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1229,
+               "width": 356,
+               "height": 280,
+               "file_name": "Arista (3).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1231,
+               "width": 1824,
+               "height": 1170,
+               "file_name": "Arista (1).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1270,
+               "width": 1536,
+               "height": 1024,
+               "file_name": "Ana (3).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1271,
+               "width": 1536,
+               "height": 1024,
+               "file_name": "Ana (2).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1276,
+               "width": 1280,
+               "height": 1024,
+               "file_name": "Ambroz (6).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1284,
+               "width": 1544,
+               "height": 1024,
+               "file_name": "Ambroz (16).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1376,
+               "width": 838,
+               "height": 592,
+               "file_name": "Bornizo (7).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1377,
+               "width": 2032,
+               "height": 1520,
+               "file_name": "Bornizo (6).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1391,
+               "width": 1544,
+               "height": 1024,
+               "file_name": "Bornizo (1).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1450,
+               "width": 2304,
+               "height": 1728,
+               "file_name": "Bayon (34).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1452,
+               "width": 2560,
+               "height": 1920,
+               "file_name": "Bayon (32).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1471,
+               "width": 2560,
+               "height": 1920,
+               "file_name": "Bayon (13).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1485,
+               "width": 1280,
+               "height": 960,
+               "file_name": "Bardo (47).JPG",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1487,
+               "width": 2048,
+               "height": 1536,
+               "file_name": "Bardo (45).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1499,
+               "width": 1544,
+               "height": 1024,
+               "file_name": "Bardo (34).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1518,
+               "width": 1544,
+               "height": 1024,
+               "file_name": "Bardo (17).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1526,
+               "width": 1146,
+               "height": 600,
+               "file_name": "Bardo (1).jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1551,
+               "width": 1052,
+               "height": 708,
+               "file_name": "quimbo_D1.jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1564,
+               "width": 770,
+               "height": 754,
+               "file_name": "quilete_D4.jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1566,
+               "width": 928,
+               "height": 834,
+               "file_name": "quilete_D2.jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1576,
+               "width": 909,
+               "height": 741,
+               "file_name": "quesada_D4.jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1578,
+               "width": 1200,
+               "height": 744,
+               "file_name": "quesada_D2.jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1599,
+               "width": 1340,
+               "height": 706,
+               "file_name": "Rupestre_D1.jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1621,
+               "width": 1312,
+               "height": 841,
+               "file_name": "RED_D3.jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          },
+          {
+               "id": 1629,
+               "width": 1112,
+               "height": 673,
+               "file_name": "Quicio_D3.jpg",
+               "license": 0,
+               "flickr_url": "",
+               "coco_url": "",
+               "date_captured": 0
+          }
+     ],
+     "annotations": [
+          {
+               "id": 15,
+               "image_id": 15,
+               "category_id": 1,
+               "segmentation": [],
+               "area": 4438471.464000001,
+               "bbox": [
+                    1153.01,
+                    2195.2,
+                    2978.64,
+                    1490.1
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Quebrancho",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Ortiga",
+                    "occluded": false,
+                    "rotation": 0.899999999999991
+               },
+               "viewpoint": "right"
+          },
+          {
+               "id": 17,
+               "image_id": 17,
+               "category_id": 1,
+               "segmentation": [],
+               "area": 5529748.736,
+               "bbox": [
+                    0.0,
+                    126.62,
+                    3059.2,
+                    1807.58
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Quebrancho",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Ortiga",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right"
+          },
+          {
+               "id": 71,
+               "image_id": 72,
+               "category_id": 3,
+               "segmentation": [],
+               "area": 358637.24000000005,
+               "bbox": [
+                    -0.03,
+                    33.58,
+                    770.6,
+                    465.4
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Pimenton",
+                    "mota": "gorda",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.100000000000009
+               },
+               "viewpoint": "right"
+          },
+          {
+               "id": 77,
+               "image_id": 78,
+               "category_id": 4,
+               "segmentation": [],
+               "area": 421951.10899999994,
+               "bbox": [
+                    0.87,
+                    20.29,
+                    939.13,
+                    449.3
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Negro",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "Back",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_77_image_id_783"
+          },
+          {
+               "id": 81,
+               "image_id": 82,
+               "category_id": 4,
+               "segmentation": [],
+               "area": 737273.8074,
+               "bbox": [
+                    1.66,
+                    18.99,
+                    1054.74,
+                    699.01
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Negro",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "Back",
+                    "Subpopulation": "Ortiga",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_81_image_id_824"
+          },
+          {
+               "id": 87,
+               "image_id": 88,
+               "category_id": 4,
+               "segmentation": [],
+               "area": 720301.2,
+               "bbox": [
+                    4.0,
+                    12.08,
+                    1110.0,
+                    648.92
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Negro",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_87_image_id_885"
+          },
+          {
+               "id": 94,
+               "image_id": 95,
+               "category_id": 5,
+               "segmentation": [],
+               "area": 758838.733,
+               "bbox": [
+                    1.47,
+                    0.0,
+                    1239.73,
+                    612.1
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Llerena",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Ortiga",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_94_image_id_956"
+          },
+          {
+               "id": 95,
+               "image_id": 96,
+               "category_id": 5,
+               "segmentation": [],
+               "area": 600059.2,
+               "bbox": [
+                    0.0,
+                    14.5,
+                    884.0,
+                    678.8
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Llerena",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "Back",
+                    "Subpopulation": "Ortiga",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_95_image_id_967"
+          },
+          {
+               "id": 114,
+               "image_id": 115,
+               "category_id": 7,
+               "segmentation": [],
+               "area": 1877555.2660000003,
+               "bbox": [
+                    57.62,
+                    54.8,
+                    1771.78,
+                    1059.7
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "RiMiera",
+                    "mota": "gorda",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_114_image_id_1158"
+          },
+          {
+               "id": 123,
+               "image_id": 125,
+               "category_id": 8,
+               "segmentation": [],
+               "area": 2778064.7184,
+               "bbox": [
+                    16.1,
+                    104.88,
+                    2044.92,
+                    1358.52
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "muybuena_manchascara",
+                    "individual_id": "Quilombos",
+                    "mota": "gorda",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_123_image_id_1259"
+          },
+          {
+               "id": 126,
+               "image_id": 128,
+               "category_id": 8,
+               "segmentation": [],
+               "area": 790903.35,
+               "bbox": [
+                    23.0,
+                    35.85,
+                    1101.0,
+                    718.35
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Quilombos",
+                    "mota": "gorda",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_126_image_id_12810"
+          },
+          {
+               "id": 133,
+               "image_id": 135,
+               "category_id": 9,
+               "segmentation": [],
+               "area": 1236074.2317000001,
+               "bbox": [
+                    24.49,
+                    37.03,
+                    1434.51,
+                    861.67
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Quebec",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_133_image_id_13511"
+          },
+          {
+               "id": 149,
+               "image_id": 151,
+               "category_id": 10,
+               "segmentation": [],
+               "area": 2535359.362,
+               "bbox": [
+                    37.54,
+                    34.47,
+                    2256.26,
+                    1123.7
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": true,
+                    "clipped": true,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Miera",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Valdeca\u00f1as",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_149_image_id_15112"
+          },
+          {
+               "id": 279,
+               "image_id": 283,
+               "category_id": 15,
+               "segmentation": [],
+               "area": 133758.2064,
+               "bbox": [
+                    64.74,
+                    209.3,
+                    483.51,
+                    276.64
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Saboya",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_279_image_id_28313"
+          },
+          {
+               "id": 295,
+               "image_id": 301,
+               "category_id": 17,
+               "segmentation": [],
+               "area": 990076.7000000001,
+               "bbox": [
+                    33.9,
+                    113.3,
+                    1187.0,
+                    834.1
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Lucero",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_295_image_id_30114"
+          },
+          {
+               "id": 298,
+               "image_id": 304,
+               "category_id": 17,
+               "segmentation": [],
+               "area": 984390.2100000001,
+               "bbox": [
+                    197.5,
+                    1.0,
+                    1191.9,
+                    825.9
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": true,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Lucero",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "Head",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_298_image_id_30415"
+          },
+          {
+               "id": 317,
+               "image_id": 326,
+               "category_id": 18,
+               "segmentation": [],
+               "area": 1230241.4128,
+               "bbox": [
+                    524.3,
+                    1602.9,
+                    1789.39,
+                    687.52
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "manual",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Lava",
+                    "mota": "gorda",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_317_image_id_32616"
+          },
+          {
+               "id": 319,
+               "image_id": 328,
+               "category_id": 18,
+               "segmentation": [],
+               "area": 9386459.8632,
+               "bbox": [
+                    604.8,
+                    89.97,
+                    3669.84,
+                    2557.73
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "sanitary check",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Lava",
+                    "mota": "gorda",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_319_image_id_32817"
+          },
+          {
+               "id": 322,
+               "image_id": 332,
+               "category_id": 19,
+               "segmentation": [],
+               "area": 1459207.2374999998,
+               "bbox": [
+                    298.6,
+                    299.7,
+                    1586.25,
+                    919.91
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "sanitary check",
+                    "identifiable": "media",
+                    "individual_id": "Kuna",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_322_image_id_33218"
+          },
+          {
+               "id": 323,
+               "image_id": 333,
+               "category_id": 19,
+               "segmentation": [],
+               "area": 1784787.4068000005,
+               "bbox": [
+                    113.5,
+                    366.64,
+                    1669.18,
+                    1069.26
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "sanitary check",
+                    "identifiable": "media",
+                    "individual_id": "Kuna",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_323_image_id_33319"
+          },
+          {
+               "id": 325,
+               "image_id": 335,
+               "category_id": 19,
+               "segmentation": [],
+               "area": 843561.1799999998,
+               "bbox": [
+                    1.9,
+                    103.2,
+                    1197.9,
+                    704.2
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Kuna",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_325_image_id_33520"
+          },
+          {
+               "id": 334,
+               "image_id": 344,
+               "category_id": 20,
+               "segmentation": [],
+               "area": 8696583.3696,
+               "bbox": [
+                    116.6,
+                    399.28,
+                    3804.08,
+                    2286.12
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "sanitary check",
+                    "identifiable": "media",
+                    "individual_id": "Keres",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_334_image_id_34421"
+          },
+          {
+               "id": 344,
+               "image_id": 355,
+               "category_id": 21,
+               "segmentation": [],
+               "area": 903487.4799999999,
+               "bbox": [
+                    1391.2,
+                    1025.7,
+                    1124.3,
+                    803.6
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Kentaro",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_344_image_id_35522"
+          },
+          {
+               "id": 351,
+               "image_id": 364,
+               "category_id": 22,
+               "segmentation": [],
+               "area": 118308.763,
+               "bbox": [
+                    19.33,
+                    28.3,
+                    443.27,
+                    266.9
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Kendo",
+                    "mota": "intermedia",
+                    "oclusion": true,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_351_image_id_36423"
+          },
+          {
+               "id": 354,
+               "image_id": 368,
+               "category_id": 22,
+               "segmentation": [],
+               "area": 136750.272,
+               "bbox": [
+                    12.71,
+                    28.29,
+                    494.04,
+                    276.8
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "sanitary check",
+                    "identifiable": "media",
+                    "individual_id": "Kendo",
+                    "mota": "intermedia",
+                    "oclusion": true,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_354_image_id_36824"
+          },
+          {
+               "id": 378,
+               "image_id": 394,
+               "category_id": 25,
+               "segmentation": [],
+               "area": 2207540.3096000003,
+               "bbox": [
+                    1505.2,
+                    209.29,
+                    1905.22,
+                    1158.68
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Pyros",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_378_image_id_39425"
+          },
+          {
+               "id": 392,
+               "image_id": 408,
+               "category_id": 26,
+               "segmentation": [],
+               "area": 395510.4453,
+               "bbox": [
+                    589.07,
+                    487.21,
+                    774.19,
+                    510.87
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Pupila",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_392_image_id_40826"
+          },
+          {
+               "id": 400,
+               "image_id": 417,
+               "category_id": 26,
+               "segmentation": [],
+               "area": 211966.78259999998,
+               "bbox": [
+                    270.95,
+                    175.94,
+                    616.29,
+                    343.94
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Pupila",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_400_image_id_41727"
+          },
+          {
+               "id": 410,
+               "image_id": 427,
+               "category_id": 27,
+               "segmentation": [],
+               "area": 629889.6296,
+               "bbox": [
+                    1628.6,
+                    232.07,
+                    873.04,
+                    721.49
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": true,
+                    "clipped": false,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Pulgar",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "Head",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_410_image_id_42728"
+          },
+          {
+               "id": 413,
+               "image_id": 430,
+               "category_id": 27,
+               "segmentation": [],
+               "area": 219151.91200000004,
+               "bbox": [
+                    2.04,
+                    209.24,
+                    701.96,
+                    312.2
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Pulgar",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "Head",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_413_image_id_43029"
+          },
+          {
+               "id": 466,
+               "image_id": 491,
+               "category_id": 29,
+               "segmentation": [],
+               "area": 1784452.3979999996,
+               "bbox": [
+                    0.0,
+                    323.41,
+                    1802.55,
+                    989.96
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Pecoso",
+                    "mota": "gorda",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_466_image_id_49130"
+          },
+          {
+               "id": 467,
+               "image_id": 491,
+               "category_id": 1,
+               "segmentation": [],
+               "area": 250019.84680000003,
+               "bbox": [
+                    489.33,
+                    649.78,
+                    648.19,
+                    385.72
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_467_image_id_49131"
+          },
+          {
+               "id": 488,
+               "image_id": 517,
+               "category_id": 31,
+               "segmentation": [],
+               "area": 1281518.6006,
+               "bbox": [
+                    121.49,
+                    211.62,
+                    1381.87,
+                    927.38
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "sanitary check",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Osga",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_488_image_id_51732"
+          },
+          {
+               "id": 498,
+               "image_id": 527,
+               "category_id": 32,
+               "segmentation": [],
+               "area": 333862.05950000003,
+               "bbox": [
+                    1027.84,
+                    636.85,
+                    851.45,
+                    392.11
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Orza",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_498_image_id_52733"
+          },
+          {
+               "id": 502,
+               "image_id": 537,
+               "category_id": 33,
+               "segmentation": [],
+               "area": 6108755.956200001,
+               "bbox": [
+                    341.08,
+                    417.01,
+                    3299.07,
+                    1851.66
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "sanitary check",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "OrtegaMT",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_502_image_id_53734"
+          },
+          {
+               "id": 543,
+               "image_id": 596,
+               "category_id": 35,
+               "segmentation": [],
+               "area": 6933525.017600001,
+               "bbox": [
+                    819.78,
+                    828.02,
+                    3399.32,
+                    2039.68
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "sanitary check",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Ondina",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_543_image_id_59635"
+          },
+          {
+               "id": 551,
+               "image_id": 608,
+               "category_id": 36,
+               "segmentation": [],
+               "area": 733731.0915,
+               "bbox": [
+                    13.38,
+                    31.42,
+                    1121.45,
+                    654.27
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Ona",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_551_image_id_60836"
+          },
+          {
+               "id": 553,
+               "image_id": 610,
+               "category_id": 36,
+               "segmentation": [],
+               "area": 1295067.0992,
+               "bbox": [
+                    797.68,
+                    373.53,
+                    1335.52,
+                    969.71
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrapmanual",
+                    "identifiable": "media",
+                    "individual_id": "Ona",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_553_image_id_61037"
+          },
+          {
+               "id": 562,
+               "image_id": 623,
+               "category_id": 37,
+               "segmentation": [],
+               "area": 507408.6344,
+               "bbox": [
+                    901.02,
+                    537.14,
+                    926.96,
+                    547.39
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "muybuena_manchascara",
+                    "individual_id": "Olivia",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_562_image_id_62338"
+          },
+          {
+               "id": 569,
+               "image_id": 631,
+               "category_id": 37,
+               "segmentation": [],
+               "area": 3305137.4873999995,
+               "bbox": [
+                    282.9,
+                    236.4,
+                    2191.14,
+                    1508.41
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrapmanual",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Olivia",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_569_image_id_63139"
+          },
+          {
+               "id": 579,
+               "image_id": 643,
+               "category_id": 38,
+               "segmentation": [],
+               "area": 7360631.451600001,
+               "bbox": [
+                    0.0,
+                    49.34,
+                    3674.51,
+                    2003.16
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Oli",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "Back",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_579_image_id_64340"
+          },
+          {
+               "id": 581,
+               "image_id": 645,
+               "category_id": 38,
+               "segmentation": [],
+               "area": 1003917.7485,
+               "bbox": [
+                    1785.41,
+                    315.98,
+                    1098.15,
+                    914.19
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Oli",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_581_image_id_64541"
+          },
+          {
+               "id": 590,
+               "image_id": 655,
+               "category_id": 39,
+               "segmentation": [],
+               "area": 135896.1525,
+               "bbox": [
+                    747.39,
+                    320.39,
+                    452.61,
+                    300.25
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Ojen",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_590_image_id_65542"
+          },
+          {
+               "id": 591,
+               "image_id": 656,
+               "category_id": 39,
+               "segmentation": [],
+               "area": 5200112.7047999995,
+               "bbox": [
+                    84.61,
+                    252.84,
+                    2673.14,
+                    1945.32
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Ojen",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_591_image_id_65643"
+          },
+          {
+               "id": 596,
+               "image_id": 661,
+               "category_id": 40,
+               "segmentation": [],
+               "area": 8594946.3738,
+               "bbox": [
+                    86.39,
+                    119.59,
+                    3728.73,
+                    2305.06
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Ofidio",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_596_image_id_66144"
+          },
+          {
+               "id": 614,
+               "image_id": 683,
+               "category_id": 42,
+               "segmentation": [],
+               "area": 410592.3929,
+               "bbox": [
+                    477.2,
+                    203.95,
+                    786.47,
+                    522.07
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": true,
+                    "clipped": true,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Ninfa",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_614_image_id_68345"
+          },
+          {
+               "id": 615,
+               "image_id": 684,
+               "category_id": 42,
+               "segmentation": [],
+               "area": 788116.5464,
+               "bbox": [
+                    58.1,
+                    266.69,
+                    1033.04,
+                    762.91
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Ninfa",
+                    "mota": "fina",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "Back",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_615_image_id_68446"
+          },
+          {
+               "id": 648,
+               "image_id": 718,
+               "category_id": 41,
+               "segmentation": [],
+               "area": 8950984.4007,
+               "bbox": [
+                    235.27,
+                    398.34,
+                    3764.73,
+                    2377.59
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "sanitary check",
+                    "identifiable": "muybuena_manchascara",
+                    "individual_id": "Nerpio",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_648_image_id_71847"
+          },
+          {
+               "id": 651,
+               "image_id": 722,
+               "category_id": 41,
+               "segmentation": [],
+               "area": 698445.2092000002,
+               "bbox": [
+                    33.6,
+                    145.0,
+                    1164.58,
+                    599.74
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Nerpio",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_651_image_id_72248"
+          },
+          {
+               "id": 656,
+               "image_id": 749,
+               "category_id": 44,
+               "segmentation": [],
+               "area": 290197.40059999994,
+               "bbox": [
+                    833.54,
+                    642.1,
+                    747.97,
+                    387.98
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "NeoMt",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_656_image_id_74949"
+          },
+          {
+               "id": 659,
+               "image_id": 752,
+               "category_id": 44,
+               "segmentation": [],
+               "area": 1402219.1291999999,
+               "bbox": [
+                    41.3,
+                    192.59,
+                    1678.44,
+                    835.43
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": true,
+                    "clipped": true,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "muybuena_manchascara",
+                    "individual_id": "NeoMt",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_659_image_id_75250"
+          },
+          {
+               "id": 686,
+               "image_id": 787,
+               "category_id": 46,
+               "segmentation": [],
+               "area": 1032653.3705,
+               "bbox": [
+                    327.61,
+                    452.94,
+                    1362.07,
+                    758.15
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "manual",
+                    "identifiable": "media",
+                    "individual_id": "NectarMT",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_686_image_id_78751"
+          },
+          {
+               "id": 689,
+               "image_id": 791,
+               "category_id": 46,
+               "segmentation": [],
+               "area": 2270235.792,
+               "bbox": [
+                    943.86,
+                    342.62,
+                    1737.78,
+                    1306.4
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "NectarMT",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_689_image_id_79152"
+          },
+          {
+               "id": 712,
+               "image_id": 816,
+               "category_id": 48,
+               "segmentation": [],
+               "area": 2554687.3328,
+               "bbox": [
+                    861.83,
+                    1055.68,
+                    2137.76,
+                    1195.03
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Navillas",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_712_image_id_81653"
+          },
+          {
+               "id": 723,
+               "image_id": 827,
+               "category_id": 49,
+               "segmentation": [],
+               "area": 3267414.57,
+               "bbox": [
+                    180.6,
+                    454.06,
+                    2278.5,
+                    1434.02
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "sanitary check",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Nativo",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_723_image_id_82754"
+          },
+          {
+               "id": 725,
+               "image_id": 829,
+               "category_id": 49,
+               "segmentation": [],
+               "area": 223339.47399999996,
+               "bbox": [
+                    454.57,
+                    160.97,
+                    553.78,
+                    403.3
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Nativo",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montes",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_725_image_id_82955"
+          },
+          {
+               "id": 757,
+               "image_id": 868,
+               "category_id": 51,
+               "segmentation": [],
+               "area": 906733.3848,
+               "bbox": [
+                    270.6,
+                    126.44,
+                    1210.98,
+                    748.76
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "sanitary check",
+                    "identifiable": "muybuena_manchascara",
+                    "individual_id": "Mural",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_757_image_id_86856"
+          },
+          {
+               "id": 765,
+               "image_id": 877,
+               "category_id": 51,
+               "segmentation": [],
+               "area": 9278785.8858,
+               "bbox": [
+                    418.5,
+                    20.96,
+                    3805.37,
+                    2438.34
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "muybuena_manchascara",
+                    "individual_id": "Mural",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_765_image_id_87757"
+          },
+          {
+               "id": 788,
+               "image_id": 910,
+               "category_id": 53,
+               "segmentation": [],
+               "area": 5178355.919999999,
+               "bbox": [
+                    605.1,
+                    743.4,
+                    3098.4,
+                    1671.3
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "sanitary check",
+                    "identifiable": "media",
+                    "individual_id": "Miarabel",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_788_image_id_91058"
+          },
+          {
+               "id": 834,
+               "image_id": 960,
+               "category_id": 57,
+               "segmentation": [],
+               "area": 1344086.4360000002,
+               "bbox": [
+                    108.58,
+                    40.9,
+                    1377.42,
+                    975.8
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Minerva",
+                    "mota": "gorda",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "Head",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_834_image_id_96059"
+          },
+          {
+               "id": 862,
+               "image_id": 990,
+               "category_id": 58,
+               "segmentation": [],
+               "area": 853547.2760000001,
+               "bbox": [
+                    18.83,
+                    130.16,
+                    1316.39,
+                    648.4
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Kiowa",
+                    "mota": "fina",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "Head",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_862_image_id_99060"
+          },
+          {
+               "id": 863,
+               "image_id": 991,
+               "category_id": 58,
+               "segmentation": [],
+               "area": 687998.1185999999,
+               "bbox": [
+                    12.93,
+                    86.21,
+                    1091.61,
+                    630.26
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrapmanual",
+                    "identifiable": "media",
+                    "individual_id": "Kiowa",
+                    "mota": "fina",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_863_image_id_99161"
+          },
+          {
+               "id": 866,
+               "image_id": 995,
+               "category_id": 59,
+               "segmentation": [],
+               "area": 1092537.2994000001,
+               "bbox": [
+                    1426.73,
+                    569.99,
+                    1261.27,
+                    866.22
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Kiki",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_866_image_id_99562"
+          },
+          {
+               "id": 878,
+               "image_id": 1008,
+               "category_id": 59,
+               "segmentation": [],
+               "area": 412903.1056,
+               "bbox": [
+                    50.84,
+                    49.26,
+                    853.67,
+                    483.68
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Kiki",
+                    "mota": "interfina",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_878_image_id_100863"
+          },
+          {
+               "id": 880,
+               "image_id": 1010,
+               "category_id": 59,
+               "segmentation": [],
+               "area": 349745.11130000005,
+               "bbox": [
+                    17.04,
+                    22.02,
+                    769.33,
+                    454.61
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "sanitary check",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Kiki",
+                    "mota": "interfina",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_880_image_id_101064"
+          },
+          {
+               "id": 911,
+               "image_id": 1041,
+               "category_id": 61,
+               "segmentation": [],
+               "area": 417408.6454000001,
+               "bbox": [
+                    38.05,
+                    54.78,
+                    769.19,
+                    542.66
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Intenso",
+                    "mota": "gorda",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_911_image_id_104165"
+          },
+          {
+               "id": 912,
+               "image_id": 1042,
+               "category_id": 61,
+               "segmentation": [],
+               "area": 300852.0934,
+               "bbox": [
+                    118.41,
+                    149.42,
+                    738.07,
+                    407.62
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "manual",
+                    "identifiable": "media",
+                    "individual_id": "Intenso",
+                    "mota": "gorda",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_912_image_id_104266"
+          },
+          {
+               "id": 932,
+               "image_id": 1063,
+               "category_id": 62,
+               "segmentation": [],
+               "area": 1072356.9141,
+               "bbox": [
+                    17.02,
+                    54.85,
+                    1307.29,
+                    820.29
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Plutonio",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_932_image_id_106367"
+          },
+          {
+               "id": 935,
+               "image_id": 1066,
+               "category_id": 62,
+               "segmentation": [],
+               "area": 699273.036,
+               "bbox": [
+                    99.76,
+                    47.13,
+                    1053.36,
+                    663.85
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Plutonio",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_935_image_id_106668"
+          },
+          {
+               "id": 947,
+               "image_id": 1078,
+               "category_id": 63,
+               "segmentation": [],
+               "area": 757174.628,
+               "bbox": [
+                    0.52,
+                    76.08,
+                    998.2,
+                    758.54
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Pizarra",
+                    "mota": "gorda",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "Back",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_947_image_id_107869"
+          },
+          {
+               "id": 949,
+               "image_id": 1080,
+               "category_id": 63,
+               "segmentation": [],
+               "area": 1644101.5686000003,
+               "bbox": [
+                    0.0,
+                    177.37,
+                    1875.18,
+                    876.77
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Pizarra",
+                    "mota": "gorda",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_949_image_id_108070"
+          },
+          {
+               "id": 970,
+               "image_id": 1101,
+               "category_id": 64,
+               "segmentation": [],
+               "area": 884740.3422,
+               "bbox": [
+                    0.0,
+                    0.33,
+                    1049.29,
+                    843.18
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Perdigon",
+                    "mota": "interfina",
+                    "oclusion": false,
+                    "radiocollar": true,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "Back",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_970_image_id_110171"
+          },
+          {
+               "id": 980,
+               "image_id": 1111,
+               "category_id": 65,
+               "segmentation": [],
+               "area": 487909.8240000001,
+               "bbox": [
+                    14.54,
+                    70.67,
+                    952.8,
+                    512.08
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Pantana",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_980_image_id_111172"
+          },
+          {
+               "id": 1002,
+               "image_id": 1134,
+               "category_id": 64,
+               "segmentation": [],
+               "area": 5090882.7308,
+               "bbox": [
+                    721.98,
+                    177.68,
+                    2832.58,
+                    1797.26
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "sanitary check",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Perdigon",
+                    "mota": "fina",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1002_image_id_113473"
+          },
+          {
+               "id": 1008,
+               "image_id": 1140,
+               "category_id": 66,
+               "segmentation": [],
+               "area": 510204.24,
+               "bbox": [
+                    1738.45,
+                    669.95,
+                    851.76,
+                    599.0
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Oreto",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1008_image_id_114074"
+          },
+          {
+               "id": 1046,
+               "image_id": 1180,
+               "category_id": 68,
+               "segmentation": [],
+               "area": 822384.5243,
+               "bbox": [
+                    83.0,
+                    575.55,
+                    958.01,
+                    858.43
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": true,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Bardenas",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1046_image_id_118075"
+          },
+          {
+               "id": 1049,
+               "image_id": 1183,
+               "category_id": 68,
+               "segmentation": [],
+               "area": 279219.19629999995,
+               "bbox": [
+                    325.87,
+                    289.97,
+                    649.03,
+                    430.21
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": true,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Bardenas",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1049_image_id_118376"
+          },
+          {
+               "id": 1067,
+               "image_id": 1201,
+               "category_id": 69,
+               "segmentation": [],
+               "area": 404332.18980000005,
+               "bbox": [
+                    225.77,
+                    482.32,
+                    755.86,
+                    534.93
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Babel",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1067_image_id_120177"
+          },
+          {
+               "id": 1070,
+               "image_id": 1204,
+               "category_id": 69,
+               "segmentation": [],
+               "area": 405132.0489999999,
+               "bbox": [
+                    829.1,
+                    859.57,
+                    991.27,
+                    408.7
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": true,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Babel",
+                    "mota": "intermedia",
+                    "oclusion": true,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1070_image_id_120478"
+          },
+          {
+               "id": 1074,
+               "image_id": 1208,
+               "category_id": 69,
+               "segmentation": [],
+               "area": 574787.7239999998,
+               "bbox": [
+                    1429.39,
+                    597.46,
+                    1019.76,
+                    563.65
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "muybuena_manchascara",
+                    "individual_id": "Babel",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1074_image_id_120879"
+          },
+          {
+               "id": 1082,
+               "image_id": 1216,
+               "category_id": 70,
+               "segmentation": [],
+               "area": 284823.6429999999,
+               "bbox": [
+                    354.92,
+                    587.47,
+                    635.98,
+                    447.85
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "muybuena_manchascara",
+                    "individual_id": "Avispa",
+                    "mota": "interfina",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1082_image_id_121680"
+          },
+          {
+               "id": 1088,
+               "image_id": 1222,
+               "category_id": 70,
+               "segmentation": [],
+               "area": 313970.384,
+               "bbox": [
+                    497.96,
+                    319.71,
+                    790.3,
+                    397.28
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": true,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Avispa",
+                    "mota": "interfina",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1088_image_id_122281"
+          },
+          {
+               "id": 1095,
+               "image_id": 1229,
+               "category_id": 71,
+               "segmentation": [],
+               "area": 83434.63029999999,
+               "bbox": [
+                    1.1,
+                    22.94,
+                    352.03,
+                    237.01
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Arista",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1095_image_id_122982"
+          },
+          {
+               "id": 1097,
+               "image_id": 1231,
+               "category_id": 71,
+               "segmentation": [],
+               "area": 420701.77249999996,
+               "bbox": [
+                    384.05,
+                    252.49,
+                    825.31,
+                    509.75
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Arista",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1097_image_id_123183"
+          },
+          {
+               "id": 1134,
+               "image_id": 1270,
+               "category_id": 73,
+               "segmentation": [],
+               "area": 115342.98749999999,
+               "bbox": [
+                    492.86,
+                    316.52,
+                    403.65,
+                    285.75
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Ana",
+                    "mota": "interfina",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1134_image_id_127084"
+          },
+          {
+               "id": 1135,
+               "image_id": 1271,
+               "category_id": 73,
+               "segmentation": [],
+               "area": 213921.75479999997,
+               "bbox": [
+                    240.04,
+                    550.22,
+                    471.64,
+                    453.57
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "muybuena_manchascara",
+                    "individual_id": "Ana",
+                    "mota": "interfina",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1135_image_id_127185"
+          },
+          {
+               "id": 1140,
+               "image_id": 1276,
+               "category_id": 74,
+               "segmentation": [],
+               "area": 315910.18950000004,
+               "bbox": [
+                    471.08,
+                    268.72,
+                    736.13,
+                    429.15
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": true,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "muybuena_manchascara",
+                    "individual_id": "Ambroz",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1140_image_id_127686"
+          },
+          {
+               "id": 1147,
+               "image_id": 1284,
+               "category_id": 74,
+               "segmentation": [],
+               "area": 636548.3331999999,
+               "bbox": [
+                    137.9,
+                    338.83,
+                    1220.47,
+                    521.56
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": true,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Ambroz",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1147_image_id_128487"
+          },
+          {
+               "id": 1237,
+               "image_id": 1376,
+               "category_id": 77,
+               "segmentation": [],
+               "area": 37858.7298,
+               "bbox": [
+                    378.98,
+                    344.07,
+                    289.02,
+                    130.99
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": true,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Bornizo",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1237_image_id_137688"
+          },
+          {
+               "id": 1238,
+               "image_id": 1377,
+               "category_id": 77,
+               "segmentation": [],
+               "area": 2192755.3,
+               "bbox": [
+                    11.2,
+                    339.1,
+                    1926.85,
+                    1138.0
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": true,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Bornizo",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1238_image_id_137789"
+          },
+          {
+               "id": 1252,
+               "image_id": 1391,
+               "category_id": 77,
+               "segmentation": [],
+               "area": 294950.316,
+               "bbox": [
+                    219.0,
+                    448.42,
+                    714.2,
+                    412.98
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": true,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "muybuena_manchascara",
+                    "individual_id": "Bornizo",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1252_image_id_139190"
+          },
+          {
+               "id": 1310,
+               "image_id": 1450,
+               "category_id": 80,
+               "segmentation": [],
+               "area": 564568.2133,
+               "bbox": [
+                    633.2,
+                    602.49,
+                    803.53,
+                    702.61
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "muybuena_manchascara",
+                    "individual_id": "Bayon",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1310_image_id_145091"
+          },
+          {
+               "id": 1311,
+               "image_id": 1452,
+               "category_id": 80,
+               "segmentation": [],
+               "area": 1161912.5128,
+               "bbox": [
+                    498.62,
+                    1088.54,
+                    1460.68,
+                    795.46
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "muybuena_manchascara",
+                    "individual_id": "Bayon",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1311_image_id_145292"
+          },
+          {
+               "id": 1327,
+               "image_id": 1471,
+               "category_id": 80,
+               "segmentation": [],
+               "area": 661928.6748,
+               "bbox": [
+                    425.19,
+                    736.12,
+                    1029.31,
+                    643.08
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Bayon",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1327_image_id_147193"
+          },
+          {
+               "id": 1341,
+               "image_id": 1485,
+               "category_id": 81,
+               "segmentation": [],
+               "area": 254144.19199999995,
+               "bbox": [
+                    670.24,
+                    239.6,
+                    606.26,
+                    419.2
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Bardo",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "Head",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1341_image_id_148594"
+          },
+          {
+               "id": 1343,
+               "image_id": 1487,
+               "category_id": 81,
+               "segmentation": [],
+               "area": 738495.924,
+               "bbox": [
+                    835.26,
+                    553.7,
+                    1045.14,
+                    706.6
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "muybuena_manchascara",
+                    "individual_id": "Bardo",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1343_image_id_148795"
+          },
+          {
+               "id": 1354,
+               "image_id": 1499,
+               "category_id": 81,
+               "segmentation": [],
+               "area": 505114.6355000001,
+               "bbox": [
+                    506.8,
+                    134.17,
+                    825.85,
+                    611.63
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": true,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Bardo",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1354_image_id_149996"
+          },
+          {
+               "id": 1373,
+               "image_id": 1518,
+               "category_id": 81,
+               "segmentation": [],
+               "area": 461339.08,
+               "bbox": [
+                    315.9,
+                    336.8,
+                    765.2,
+                    602.9
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Bardo",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1373_image_id_151897"
+          },
+          {
+               "id": 1381,
+               "image_id": 1526,
+               "category_id": 81,
+               "segmentation": [],
+               "area": 665647.128,
+               "bbox": [
+                    7.6,
+                    13.32,
+                    1134.6,
+                    586.68
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": false,
+                    "color": true,
+                    "context": "sanitary check",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Bardo",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "Head",
+                    "Subpopulation": "Andujar",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1381_image_id_152698"
+          },
+          {
+               "id": 1406,
+               "image_id": 1551,
+               "category_id": 82,
+               "segmentation": [],
+               "area": 276830.12169999996,
+               "bbox": [
+                    69.6,
+                    216.23,
+                    694.21,
+                    398.77
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Qimbo",
+                    "mota": "intermedia",
+                    "oclusion": true,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1406_image_id_155199"
+          },
+          {
+               "id": 1419,
+               "image_id": 1564,
+               "category_id": 83,
+               "segmentation": [],
+               "area": 315600.44800000003,
+               "bbox": [
+                    39.18,
+                    169.1,
+                    680.32,
+                    463.9
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Quilete",
+                    "mota": "intermedia",
+                    "oclusion": true,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1419_image_id_1564100"
+          },
+          {
+               "id": 1421,
+               "image_id": 1566,
+               "category_id": 83,
+               "segmentation": [],
+               "area": 601893.2651,
+               "bbox": [
+                    0.9,
+                    92.73,
+                    881.03,
+                    683.17
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "muybuena_manchascara",
+                    "individual_id": "Quilete",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1421_image_id_1566101"
+          },
+          {
+               "id": 1431,
+               "image_id": 1576,
+               "category_id": 84,
+               "segmentation": [],
+               "area": 313243.68999999994,
+               "bbox": [
+                    60.09,
+                    81.3,
+                    615.41,
+                    509.0
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Quesada",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1431_image_id_1576102"
+          },
+          {
+               "id": 1433,
+               "image_id": 1578,
+               "category_id": 84,
+               "segmentation": [],
+               "area": 430483.16300000006,
+               "bbox": [
+                    96.8,
+                    102.5,
+                    803.59,
+                    535.7
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": false,
+                    "context": "camtrap",
+                    "identifiable": "muybuena_manchascara",
+                    "individual_id": "Quesada",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1433_image_id_1578103"
+          },
+          {
+               "id": 1454,
+               "image_id": 1599,
+               "category_id": 86,
+               "segmentation": [],
+               "area": 710066.0618999999,
+               "bbox": [
+                    74.0,
+                    31.09,
+                    1052.09,
+                    674.91
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "buena_manchaspiernas",
+                    "individual_id": "Rupestre",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1454_image_id_1599104"
+          },
+          {
+               "id": 1476,
+               "image_id": 1621,
+               "category_id": 88,
+               "segmentation": [],
+               "area": 858011.2549999999,
+               "bbox": [
+                    0.0,
+                    72.87,
+                    1203.5,
+                    712.93
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Red",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1476_image_id_1621105"
+          },
+          {
+               "id": 1484,
+               "image_id": 1629,
+               "category_id": 89,
+               "segmentation": [],
+               "area": 715787.899,
+               "bbox": [
+                    11.54,
+                    16.35,
+                    1090.06,
+                    656.65
+               ],
+               "iscrowd": 0,
+               "attributes": {
+                    "cage": false,
+                    "clipped": true,
+                    "color": true,
+                    "context": "camtrap",
+                    "identifiable": "media",
+                    "individual_id": "Quicio",
+                    "mota": "intermedia",
+                    "oclusion": false,
+                    "radiocollar": false,
+                    "rareposition": false,
+                    "viewpoint": "right",
+                    "lynxclipped": "null",
+                    "Subpopulation": "Montiel",
+                    "occluded": false,
+                    "rotation": 0.0
+               },
+               "viewpoint": "right",
+               "name": "id_1484_image_id_1629106"
+          }
+     ],
+     "licenses": [
+          {
+               "name": "",
+               "id": 0,
+               "url": ""
+          }
+     ],
+     "info": [
+          {
+               "contributor": "LIFE+ LYNXCONNECT",
+               "date_created": "08/2022",
+               "description": "Prototyping Dataset Train",
+               "url": "",
+               "version": "v0.1",
+               "year": "2022"
+          }
+     ]
+}

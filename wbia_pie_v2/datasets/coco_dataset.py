@@ -246,11 +246,15 @@ class COCODataset(ImageDataset):
                 viewpoint = uuid2view.get(obj['uuid'], 'None')
             else:
                 viewpoint = obj['viewpoint']
+            name = str(obj['attributes']['individual_id'])
+            viewpoint_abbrv = 'L' if viewpoint in ['left', 'izquierda'] else 'R'
+            name = '%s-%s' % (name, viewpoint_abbrv)
+            name = name.upper()
             rec.append(
                 {
                     'image_path': image_path,
                     'aa_bbox': obj['bbox'],
-                    'name': obj['name'],
+                    'name': name,
                     'viewpoint': viewpoint,
                     'obj_id': i,
                 }
@@ -341,8 +345,13 @@ class COCODataset(ImageDataset):
                     image, out_size, order=3, anti_aliasing=True
                 )
 
-            if fliplr:
+            if db_rec['viewpoint'] in ['left', 'izquierda']:
                 image = np.fliplr(image)
+                # add code to reverse bbox
+                height, width, channels = image.shape
+                xtl, ytl, w, h = aa_bbox   
+                flipped_aa_bbox = round(width - (w + xtl)) , ytl, w, h
+                aa_bbox = flipped_aa_bbox   
 
             # Save image to processed folder
             im_filename = osp.basename(db_rec['image_path'])
@@ -356,8 +365,16 @@ class COCODataset(ImageDataset):
                     osp.splitext(im_filename)[1],
                 ),
             )
-            imageio.imwrite(new_filename, img_as_ubyte(image))
 
+            try:
+                if image.shape[2] ==4:
+                    #assert np.all(image[:, :, -1]==1)
+                    image = image[:, :, 0:3]
+                imageio.imwrite(new_filename, img_as_ubyte(image))
+            except OSError: #AssertionError      
+                import IPython
+                IPython.embed()    
+            
             prep_gt_db.append(
                 {
                     'image_path': new_filename,

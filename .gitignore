@@ -76,4 +76,4 @@ pip-wheel-metadata/*
 
 .vscode/
 # Mi directorio
-**/lynxcoco
+**/lynxcoco/images/

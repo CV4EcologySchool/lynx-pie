@@ -163,14 +163,14 @@ class IberianLynx(COCODataset):
             name='iberianlynx_side',
             dataset_dir='lynxcoco', ###
             dataset_url='',
-            split='train2021',
-            crop=True,
+            split='train_right',
+            crop=False,
             flip_test=False,
             resize=True,
             imsize=300,
             train_min_samples=3,
-            id_attr=['name', 'viewpoint'],
-            viewpoint_list=['front'],
+            id_attr=['name','viewpoint'], 
+            viewpoint_list=['right'],
             debug=False,
             excluded_names='____',
             **kwargs
