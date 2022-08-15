@@ -1,16 +1,16 @@
 model:
-  name: 'resnet50_fc512'
+  name: 'efficientnet_b4'
   pretrained: True
   num_train_classes: 384 ### Preguntar a Jason
 
 data:
   type: 'image'
   source: 'iberianlynx'
-  height: 300 ### Preguntar a Jason
-  width: 300 ### Preguntar a Jason
-  transforms_train: ['resize', 'random_crop', 'random_affine']
+  height: 450
+  width: 450
+  transforms_train: ['resize', 'random_crop', 'random_affine', 'center_crop', 'blur', 'color_jitter', 'random_grayscale', 'random_flip']
   transforms_test: ['resize']
-  version: 'v3'
+  version: 'v2'
 
 loss:
   name: 'triplet'
@@ -21,21 +21,21 @@ loss:
     label_smooth: True
 
 sampler:
-  num_instances: 4
-  num_copies: 2
+  num_instances: 3
+  num_copies: 3
 
 train:
   optim: 'adam'
   lr: 0.00001
   max_epoch: 1000
-  batch_size: 16
+  batch_size: 8
   fixbase_epoch: 1
   open_layers: ['fc', 'classifier']
   lr_scheduler: 'multi_step'
   stepsize: [400]
 
 test:
-  batch_size: 16
+  batch_size: 8
   dist_metric: 'euclidean'
   normalize_feature: False
   evaluate: False

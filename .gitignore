@@ -77,3 +77,6 @@ pip-wheel-metadata/*
 .vscode/
 # Mi directorio
 **/lynxcoco/images/
+/lynx-pie/wbia_pie_v2/models/pie_v2.snow_rc2.pth.tar
+**/pie_v2.snow_rc2.pth.tar
+**/models/pie_v2.hyena_bothsides_model.20210624.pth.tar

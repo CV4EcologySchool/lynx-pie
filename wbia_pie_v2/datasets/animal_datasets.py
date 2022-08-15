@@ -164,11 +164,12 @@ class IberianLynx(COCODataset):
             dataset_dir='lynxcoco', ###
             dataset_url='',
             split='train_right',
-            crop=False,
+            crop=True,
             flip_test=False,
             resize=True,
-            imsize=300,
-            train_min_samples=3,
+            imsize=500, ### Preguntar a Jason
+            train_min_samples=2,
+            test_min_samples=2,
             id_attr=['name','viewpoint'], 
             viewpoint_list=['right'],
             debug=False,

@@ -13,7 +13,7 @@ from torchvision.transforms import (
     RandomAffine,
     RandomGrayscale,
     GaussianBlur,
-    #MotionBlur? / ElasticTransform
+    #MotionBlur? / ElasticTransform ¿?
 )
 
 

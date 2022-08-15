@@ -10,7 +10,7 @@ data:
   width: 300 ### Preguntar a Jason
   transforms_train: ['resize', 'random_crop', 'random_affine']
   transforms_test: ['resize']
-  version: 'v3'
+  version: 'v2'
 
 loss:
   name: 'triplet'
@@ -21,8 +21,8 @@ loss:
     label_smooth: True
 
 sampler:
-  num_instances: 4
-  num_copies: 2
+  num_instances: 3
+  num_copies: 1
 
 train:
   optim: 'adam'

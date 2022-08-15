@@ -6,6 +6,7 @@ import torch
 from datasets.sampler import RandomCopiesIdentitySampler
 from datasets import init_image_dataset
 from .transforms import build_train_test_transforms
+from torchvision.utils import save_image
 
 # from utils.tools import write_json
 
@@ -47,21 +48,22 @@ class AnimalImageDataManager:
         self,
         root='',
         source=None,
-        height=256,
-        width=128,
+        height=500, ## Entender de donde viene
+        width=500, ## Entender de donde viene
         transforms_train='random_flip',
         transforms_test='resize',
         k_tfm=1,
         norm_mean=None,
         norm_std=None,
         use_gpu=True,
-        batch_size_train=32,
-        batch_size_test=32,
+        batch_size_train=8,
+        batch_size_test=8,
         workers=2,
-        num_instances=4,
+        num_instances=2,
         num_copies=1,
         config_fpath='',
     ):
+        #print("ESTO", config_fpath) 
 
         self.source = source
         self.height = height
@@ -107,6 +109,15 @@ class AnimalImageDataManager:
         self.test_set = init_image_dataset(
             self.source, transform=self.transform_te, mode='test', root=root, config_fpath=config_fpath
         )
+        #print(type(self.test_set))
+        #imshow(self.test_set[0]['img'].permute(1,2, 0))
+        #print(self.test_set[79])
+        #save_image(self.test_set[10]['img'], 'imgd1.png')
+        #save_image(self.test_set[71]['img'], 'imggsfd2.png')
+        #save_image(self.test_set[79]['img'], 'imfasg3.png')
+        #save_image(self.test_set[20]['img'], 'imasg1.png')
+        #save_image(self.test_set[17]['img'], 'imggas2.png')
+        #save_image(self.test_set[82]['img'], 'imgwgwgaw3.png')
         self.test_loader = torch.utils.data.DataLoader(
             self.test_set,
             batch_size=batch_size_test,

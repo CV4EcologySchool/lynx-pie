@@ -290,11 +290,13 @@ class COCODataset(ImageDataset):
         print('Preprocessing database...')
         prep_gt_db = []
         excluded_records = []
+        #total = 0 solo para ver como de grande son las bbox
+        #countaera = 0 solo para ver como de grande son las bbox
         for i, db_rec in enumerate(db_coco):
             # Keep only records from specific viewpoints
-            if viewpoint_list is not None and db_rec['viewpoint'] not in viewpoint_list:
-                excluded_records.append(db_rec)
-                continue
+#            if viewpoint_list is not None and db_rec['viewpoint'] not in viewpoint_list:
+#                excluded_records.append(db_rec)
+#                continue
 
             # Exclude names from the name exclusion list
             if excluded_names is not None and db_rec['name'] in excluded_names:
@@ -311,6 +313,15 @@ class COCODataset(ImageDataset):
 
             if self.crop:
                 # Get box around axis-aligned bounding box
+
+                #xb, yb, bw, bh = aa_bbox
+                #hi, wi, ci = image.shape
+                #areaab = bw * bh
+                #areai = wi * hi
+                #if areaab >= areai * 0.99:
+                #    countaera += 1
+                #total += 1
+
                 x1, y1, bw, bh = increase_bbox(
                     aa_bbox, expand, image.shape[:2], type='xyhw'
                 )

@@ -2,15 +2,16 @@ model:
   name: 'resnet50_fc512'
   pretrained: True
   num_train_classes: 384 ### Preguntar a Jason
-
+  load_weights: '/lynx-pie/wbia_pie_v2/models/pie_v2.snow_rc2.pth.tar'
+  
 data:
   type: 'image'
   source: 'iberianlynx'
   height: 300 ### Preguntar a Jason
   width: 300 ### Preguntar a Jason
-  transforms_train: ['resize', 'random_crop', 'random_affine']
+  transforms_train: ['resize', 'random_crop', 'random_affine', 'random_flip']
   transforms_test: ['resize']
-  version: 'v3'
+  version: 'v4_test3'
 
 loss:
   name: 'triplet'

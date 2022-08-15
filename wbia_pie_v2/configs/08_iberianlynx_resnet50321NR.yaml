@@ -1,16 +1,20 @@
 model:
   name: 'resnet50_fc512'
   pretrained: True
-  num_train_classes: 384 ### Preguntar a Jason
+  #num_train_classes: 384 ### Preguntar a Jason
+  #load_weights: ''  # path to model weights
 
 data:
   type: 'image'
   source: 'iberianlynx'
+  workers: 2 
   height: 300 ### Preguntar a Jason
   width: 300 ### Preguntar a Jason
-  transforms_train: ['resize', 'random_crop', 'random_affine']
-  transforms_test: ['resize']
-  version: 'v3'
+  k_tfm: 1 # number of times to apply augmentation to an image
+  transforms_train: ['random_crop', 'random_affine', 'random_flip']
+  #transforms_test: ['resize']
+  version: 'v1'
+  #save_dir: 'log' # path to save log
 
 loss:
   name: 'triplet'
@@ -21,8 +25,8 @@ loss:
     label_smooth: True
 
 sampler:
-  num_instances: 4
-  num_copies: 2
+  num_instances: 3
+  num_copies: 1
 
 train:
   optim: 'adam'

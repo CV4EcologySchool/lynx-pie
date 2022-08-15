@@ -125,8 +125,8 @@ class ImageDataset(object):
 
         print('=> Loaded {}'.format(self.__class__.__name__))
         print('  ----------------------------------------')
-        print('  subset   | # ids | # images ')
+        print('  subset   | #  id lynx | # images ')
         print('  ----------------------------------------')
         print('  train    | {:5d} |  {:8d} '.format(num_train_pids, len(self.train)))
-        print('  test     | {:5d} |  {:8d} '.format(num_test_pids, len(self.test)))
+        print('  val     | {:5d} |  {:8d} '.format(num_test_pids, len(self.test))) ##
         print('  ----------------------------------------')

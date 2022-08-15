@@ -67,6 +67,8 @@ class TripletPIEEngine(PIEEngine):
         loss = 0
         loss_summary = {}
 
+        #import IPython
+        #IPython.embed()
         if self.weight_t > 0:
             loss_t = self.compute_loss(self.criterion_t, features, pids)
             loss += self.weight_t * loss_t
