@@ -2493,16 +2493,6 @@
                "date_captured": 0
           },
           {
-               "id": 806,
-               "width": 1920,
-               "height": 1080,
-               "file_name": "Nebuloso (13).jpg",
-               "license": 0,
-               "flickr_url": "",
-               "coco_url": "",
-               "date_captured": 0
-          },
-          {
                "id": 807,
                "width": 2560,
                "height": 1920,
@@ -2937,56 +2927,6 @@
                "width": 793,
                "height": 483,
                "file_name": "Minerva_der.png",
-               "license": 0,
-               "flickr_url": "",
-               "coco_url": "",
-               "date_captured": 0
-          },
-          {
-               "id": 984,
-               "width": 1167,
-               "height": 762,
-               "file_name": "Kiowa (17).jpg",
-               "license": 0,
-               "flickr_url": "",
-               "coco_url": "",
-               "date_captured": 0
-          },
-          {
-               "id": 985,
-               "width": 3744,
-               "height": 2080,
-               "file_name": "Kiowa (16).JPG",
-               "license": 0,
-               "flickr_url": "",
-               "coco_url": "",
-               "date_captured": 0
-          },
-          {
-               "id": 989,
-               "width": 1251,
-               "height": 745,
-               "file_name": "Kiowa (12).jpg",
-               "license": 0,
-               "flickr_url": "",
-               "coco_url": "",
-               "date_captured": 0
-          },
-          {
-               "id": 990,
-               "width": 1343,
-               "height": 782,
-               "file_name": "Kiowa (11).jpg",
-               "license": 0,
-               "flickr_url": "",
-               "coco_url": "",
-               "date_captured": 0
-          },
-          {
-               "id": 991,
-               "width": 1114,
-               "height": 757,
-               "file_name": "Kiowa (10).jpg",
                "license": 0,
                "flickr_url": "",
                "coco_url": "",
@@ -5945,38 +5885,6 @@
                "viewpoint": "left"
           },
           {
-               "id": 253,
-               "image_id": 259,
-               "category_id": 1,
-               "segmentation": [],
-               "area": 162412.15759999995,
-               "bbox": [
-                    93.81,
-                    681.1,
-                    715.22,
-                    227.08
-               ],
-               "iscrowd": 0,
-               "attributes": {
-                    "cage": false,
-                    "clipped": true,
-                    "color": true,
-                    "context": "camtrap",
-                    "identifiable": "muybuena_manchascara",
-                    "individual_id": "",
-                    "mota": "intermedia",
-                    "oclusion": true,
-                    "radiocollar": false,
-                    "rareposition": false,
-                    "viewpoint": "left",
-                    "lynxclipped": "Head",
-                    "Subpopulation": "Montes",
-                    "occluded": false,
-                    "rotation": 0.0
-               },
-               "viewpoint": "left"
-          },
-          {
                "id": 254,
                "image_id": 260,
                "category_id": 25,
@@ -7088,13 +6996,13 @@
                     "oclusion": true,
                     "radiocollar": true,
                     "rareposition": false,
-                    "viewpoint": "right",
+                    "viewpoint": "left",
                     "lynxclipped": "null",
                     "Subpopulation": "Montes",
                     "occluded": false,
                     "rotation": 0.0
                },
-               "viewpoint": "right"
+               "viewpoint": "left"
           },
           {
                "id": 351,
@@ -7120,13 +7028,13 @@
                     "oclusion": true,
                     "radiocollar": true,
                     "rareposition": false,
-                    "viewpoint": "right",
+                    "viewpoint": "left",
                     "lynxclipped": "null",
                     "Subpopulation": "Montiel",
                     "occluded": false,
                     "rotation": 0.0
                },
-               "viewpoint": "right"
+               "viewpoint": "left"
           },
           {
                "id": 352,
@@ -7312,13 +7220,13 @@
                     "oclusion": false,
                     "radiocollar": true,
                     "rareposition": false,
-                    "viewpoint": "right",
+                    "viewpoint": "left",
                     "lynxclipped": "null",
                     "Subpopulation": "Montes",
                     "occluded": false,
                     "rotation": 0.0
                },
-               "viewpoint": "right"
+               "viewpoint": "left"
           },
           {
                "id": 380,
@@ -8505,38 +8413,6 @@
                "viewpoint": "right"
           },
           {
-               "id": 518,
-               "image_id": 564,
-               "category_id": 1,
-               "segmentation": [],
-               "area": 9751.527000000011,
-               "bbox": [
-                    1185.25,
-                    524.37,
-                    82.9,
-                    117.63
-               ],
-               "iscrowd": 0,
-               "attributes": {
-                    "cage": false,
-                    "clipped": true,
-                    "color": true,
-                    "context": "camtrap",
-                    "identifiable": "buena_manchaspiernas",
-                    "individual_id": "",
-                    "mota": "intermedia",
-                    "oclusion": false,
-                    "radiocollar": false,
-                    "rareposition": false,
-                    "viewpoint": "right",
-                    "lynxclipped": "null",
-                    "Subpopulation": "Montes",
-                    "occluded": false,
-                    "rotation": 0.0
-               },
-               "viewpoint": "right"
-          },
-          {
                "id": 519,
                "image_id": 564,
                "category_id": 66,
@@ -9296,13 +9172,13 @@
                     "oclusion": false,
                     "radiocollar": false,
                     "rareposition": false,
-                    "viewpoint": "right",
+                    "viewpoint": "left",
                     "lynxclipped": "null",
                     "Subpopulation": "Montes",
                     "occluded": false,
                     "rotation": 0.0
                },
-               "viewpoint": "right"
+               "viewpoint": "left"
           },
           {
                "id": 631,
@@ -9896,38 +9772,6 @@
                "attributes": {
                     "cage": false,
                     "clipped": true,
-                    "color": false,
-                    "context": "camtrap",
-                    "identifiable": "media",
-                    "individual_id": "Nebuloso",
-                    "mota": "intermedia",
-                    "oclusion": false,
-                    "radiocollar": false,
-                    "rareposition": false,
-                    "viewpoint": "left",
-                    "lynxclipped": "null",
-                    "Subpopulation": "Montes",
-                    "occluded": false,
-                    "rotation": 0.0
-               },
-               "viewpoint": "left"
-          },
-          {
-               "id": 705,
-               "image_id": 806,
-               "category_id": 92,
-               "segmentation": [],
-               "area": 287406.64200000005,
-               "bbox": [
-                    297.95,
-                    319.34,
-                    673.32,
-                    426.85
-               ],
-               "iscrowd": 0,
-               "attributes": {
-                    "cage": false,
-                    "clipped": false,
                     "color": false,
                     "context": "camtrap",
                     "identifiable": "media",
@@ -11353,38 +11197,6 @@
                "viewpoint": "right"
           },
           {
-               "id": 857,
-               "image_id": 984,
-               "category_id": 115,
-               "segmentation": [],
-               "area": 680337.365,
-               "bbox": [
-                    53.28,
-                    114.56,
-                    1113.5,
-                    610.99
-               ],
-               "iscrowd": 0,
-               "attributes": {
-                    "cage": false,
-                    "clipped": true,
-                    "color": true,
-                    "context": "camtrapmanual",
-                    "identifiable": "buena_manchaspiernas",
-                    "individual_id": "Kiowa",
-                    "mota": "interfina",
-                    "oclusion": false,
-                    "radiocollar": false,
-                    "rareposition": false,
-                    "viewpoint": "left",
-                    "lynxclipped": "null",
-                    "Subpopulation": "Montiel",
-                    "occluded": false,
-                    "rotation": 0.0
-               },
-               "viewpoint": "left"
-          },
-          {
                "id": 858,
                "image_id": 985,
                "category_id": 115,
@@ -11415,38 +11227,6 @@
                     "rotation": 0.0
                },
                "viewpoint": "left"
-          },
-          {
-               "id": 861,
-               "image_id": 989,
-               "category_id": 114,
-               "segmentation": [],
-               "area": 497082.9955,
-               "bbox": [
-                    182.51,
-                    133.21,
-                    905.45,
-                    548.99
-               ],
-               "iscrowd": 0,
-               "attributes": {
-                    "cage": false,
-                    "clipped": true,
-                    "color": true,
-                    "context": "manual",
-                    "identifiable": "media",
-                    "individual_id": "Kiowa",
-                    "mota": "interfina",
-                    "oclusion": false,
-                    "radiocollar": false,
-                    "rareposition": false,
-                    "viewpoint": "right",
-                    "lynxclipped": "null",
-                    "Subpopulation": "Montiel",
-                    "occluded": false,
-                    "rotation": 0.0
-               },
-               "viewpoint": "right"
           },
           {
                "id": 862,
@@ -11691,38 +11471,6 @@
                     "color": true,
                     "context": "camtrapmanual",
                     "identifiable": "buena_manchaspiernas",
-                    "individual_id": "Kiki",
-                    "mota": "interfina",
-                    "oclusion": false,
-                    "radiocollar": false,
-                    "rareposition": false,
-                    "viewpoint": "left",
-                    "lynxclipped": "null",
-                    "Subpopulation": "Montiel",
-                    "occluded": false,
-                    "rotation": 0.0
-               },
-               "viewpoint": "left"
-          },
-          {
-               "id": 877,
-               "image_id": 1007,
-               "category_id": 117,
-               "segmentation": [],
-               "area": 586830.735,
-               "bbox": [
-                    63.96,
-                    45.64,
-                    894.75,
-                    655.86
-               ],
-               "iscrowd": 0,
-               "attributes": {
-                    "cage": false,
-                    "clipped": true,
-                    "color": true,
-                    "context": "camtrap",
-                    "identifiable": "media",
                     "individual_id": "Kiki",
                     "mota": "interfina",
                     "oclusion": false,
@@ -13296,13 +13044,13 @@
                     "oclusion": false,
                     "radiocollar": false,
                     "rareposition": false,
-                    "viewpoint": "right",
+                    "viewpoint": "left",
                     "lynxclipped": "Back",
                     "Subpopulation": "Andujar",
                     "occluded": false,
                     "rotation": 0.0
                },
-               "viewpoint": "right"
+               "viewpoint": "left"
           },
           {
                "id": 1074,
@@ -13520,13 +13268,13 @@
                     "oclusion": false,
                     "radiocollar": false,
                     "rareposition": false,
-                    "viewpoint": "right",
+                    "viewpoint": "left",
                     "lynxclipped": "null",
                     "Subpopulation": "Andujar",
                     "occluded": false,
                     "rotation": 0.0
                },
-               "viewpoint": "right"
+               "viewpoint": "left"
           },
           {
                "id": 1091,
@@ -16208,13 +15956,13 @@
                     "oclusion": false,
                     "radiocollar": false,
                     "rareposition": false,
-                    "viewpoint": "right",
+                    "viewpoint": "left",
                     "lynxclipped": "null",
                     "Subpopulation": "Montiel",
                     "occluded": false,
                     "rotation": 0.0
                },
-               "viewpoint": "right"
+               "viewpoint": "left"
           },
           {
                "id": 1406,

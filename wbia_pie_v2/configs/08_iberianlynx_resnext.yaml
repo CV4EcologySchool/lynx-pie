@@ -1,0 +1,46 @@
+model:
+  name: 'resnext101_32x8d'
+  pretrained: True
+  num_train_classes: 537
+
+data:
+  type: 'image'
+  source: 'iberianlynx'
+  height: 300 ### Preguntar a Jason
+  width: 300 ### Preguntar a Jason
+  transforms_train: ['resize', 'random_crop', 'random_affine', 'color_jitter', 'random_grayscale', 'random_flip']
+  transforms_test: ['resize']
+  version: 'v0'
+
+loss:
+  name: 'triplet'
+  triplet:
+    weight_t: 1.
+    weight_x: 1.
+  softmax:
+    label_smooth: True
+
+sampler:
+  num_instances: 4
+  num_copies: 4
+
+train:
+  optim: 'adam'
+  lr: 0.0001
+  max_epoch: 1000
+  batch_size: 16
+  fixbase_epoch: 1
+  open_layers: ['fc', 'classifier']
+  lr_scheduler: 'multi_step'
+  stepsize: [200]
+
+test:
+  batch_size: 16
+  dist_metric: 'euclidean'
+  normalize_feature: False
+  evaluate: False
+  eval_freq: 10
+  rerank: False
+  ranks: [1, 5, 12, 20]
+  visrank_topk: 12
+  visrank_resize: False

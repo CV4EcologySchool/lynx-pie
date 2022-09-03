@@ -1,0 +1,46 @@
+model:
+  name: 'resnext101_32x8d'
+  pretrained: True
+  num_train_classes: 537
+  load_weights: '/lynx-pie/wbia_pie_v2/models/pie_v2.snow_rc2.pth.tar'
+
+data:
+  type: 'image'
+  source: 'iberianlynx'
+  height: 256 ### Preguntar a Jason
+  width: 320 ### Preguntar a Jason
+  transforms_train: ['resize', 'random_affine'] ##'random_crop',, 'color_jitter', 'random_grayscale', 'random_flip'
+  transforms_test: ['resize']
+  version: 'v02bs'
+
+loss:
+  name: 'triplet'
+  triplet:
+    weight_t: 1.
+    weight_x: 10.
+  softmax:
+    label_smooth: True
+
+sampler:
+  num_instances: 4
+  num_copies: 2
+
+train:
+  optim: 'sgd'
+  lr: 0.0005
+  max_epoch: 1000
+  batch_size: 16
+  open_layers: ['fc', 'classifier']
+  lr_scheduler: 'multi_step'
+  stepsize: [200]
+
+test:
+  batch_size: 16
+  dist_metric: 'euclidean'
+  normalize_feature: False
+  evaluate: False
+  eval_freq: 10
+  rerank: False
+  ranks: [1, 5, 12, 20]
+  visrank_topk: 12
+  visrank_resize: False

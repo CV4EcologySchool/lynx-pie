@@ -62,7 +62,7 @@ def get_default_config():
     cfg.train.lr_scheduler = 'single_step'
     cfg.train.stepsize = [20]  # stepsize to decay learning rate
     cfg.train.gamma = 0.1  # learning rate decay multiplier
-    cfg.train.print_freq = 20  # print frequency
+    cfg.train.print_freq = 1  # print frequency
     cfg.train.seed = 1  # random seed
     cfg.train.eval_start = False
 
@@ -70,7 +70,7 @@ def get_default_config():
     cfg.sgd = CN()
     cfg.sgd.momentum = 0.9  # momentum factor for sgd and rmsprop
     cfg.sgd.dampening = 0.0  # dampening for momentum
-    cfg.sgd.nesterov = False  # Nesterov momentum
+    cfg.sgd.nesterov = True  # Nesterov momentum
     cfg.rmsprop = CN()
     cfg.rmsprop.alpha = 0.99  # smoothing constant
     cfg.adam = CN()
@@ -83,7 +83,7 @@ def get_default_config():
     cfg.loss.softmax = CN()
     cfg.loss.softmax.label_smooth = True  # use label smoothing regularizer
     cfg.loss.triplet = CN()
-    cfg.loss.triplet.margin = 0.3  # distance margin
+    cfg.loss.triplet.margin = 1.  # distance margin
     cfg.loss.triplet.weight_t = 1.0  # weight to balance hard triplet loss
     cfg.loss.triplet.weight_x = 0.0  # weight to balance cross entropy loss
     cfg.loss.triplet.weight_c = 0.0005

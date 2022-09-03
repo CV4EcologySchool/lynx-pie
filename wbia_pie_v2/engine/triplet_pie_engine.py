@@ -28,7 +28,7 @@ class TripletPIEEngine(PIEEngine):
         datamanager,
         model,
         optimizer,
-        margin=0.3,
+        margin=1,
         weight_t=1,
         weight_x=1,
         scheduler=None,

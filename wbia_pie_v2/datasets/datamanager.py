@@ -101,7 +101,7 @@ class AnimalImageDataManager:
             shuffle=False,
             num_workers=workers,
             pin_memory=self.use_gpu,
-            drop_last=True,
+            drop_last=False,
         )
 
         print('=> Loading test dataset')

@@ -241,6 +241,8 @@ class COCODataset(ImageDataset):
     def _load_image_annots(self, img_anns, image_path, uuid2view=None):
         """ Get COCO annotations for an image by index """
         rec = []
+        #import IPython
+        #IPython.embed()   
         for i, obj in enumerate(img_anns):
             if uuid2view is not None:
                 viewpoint = uuid2view.get(obj['uuid'], 'None')
@@ -359,6 +361,14 @@ class COCODataset(ImageDataset):
             if db_rec['viewpoint'] in ['left', 'izquierda']:
                 image = np.fliplr(image)
                 # add code to reverse bbox
+                print(db_rec['image_path'])
+                #try:
+                    
+                    #assert np.all(image[:, :, -1]==1)
+                #except ValueError:: #AssertionError      
+                #    import IPython
+                #    IPython.embed()  
+
                 height, width, channels = image.shape
                 xtl, ytl, w, h = aa_bbox   
                 flipped_aa_bbox = round(width - (w + xtl)) , ytl, w, h

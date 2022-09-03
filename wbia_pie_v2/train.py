@@ -2,10 +2,12 @@
 import sys
 import time
 import os
+os.environ['CUDA_LAUNCH_BLOCKING'] = '1'
 import os.path as osp
 import argparse
 import torch
 import torch.nn as nn
+torch.cuda.empty_cache()
 
 from utils import (
     Logger,
